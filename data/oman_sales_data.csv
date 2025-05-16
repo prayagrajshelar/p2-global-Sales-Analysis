@@ -1,0 +1,201 @@
+SaleId,Country,Category,Product,Qty,Price,Amount
+1000,Oman,Shoes,Formal Shoes,5.0,3.29,16.45
+1001,Oman,Jeans,,1.0,4.28,4.28
+1002,Oman,TShirts,Full Sleeve,,2.96,
+1003,Oman,Water bottles,,5.0,3.32,16.6
+1004,Oman,Perfumes,Citrus Splash,3.0,3.67,11.01
+1005,Oman,Perfumes,Ocean Breeze,4.0,3.06,12.24
+1006,Oman,TShirts,Full Sleeve,5.0,5.54,27.7
+1007,Oman,Water bottles,Glass Bottle,1.0,3.95,3.95
+1008,Oman,Shoes,Sneakers,1.0,4.43,4.43
+1009,Oman,Smart Phone,Galaxy S,2.0,3.15,6.3
+1010,Oman,Water bottles,Copper Bottle,2.0,5.54,11.08
+1011,Oman,Perfumes,Citrus Splash,1.0,5.03,5.03
+1012,Oman,Shoes,Sneakers,4.0,3.85,15.4
+1013,Oman,Perfumes,Citrus Splash,3.0,3.42,10.26
+1014,Oman,Perfumes,Oud Royale,2.0,3.34,6.68
+1015,Oman,Shoes,Loafers,,2.96,
+1016,Oman,Smart Phone,Pixel Max,4.0,3.72,14.88
+1017,Oman,Jeans,Relaxed Fit,1.0,4.4,4.4
+1018,Oman,Perfumes,Lavender Calm,5.0,2.46,12.3
+1019,Oman,Smart Phone,Pixel Max,1.0,5.31,5.31
+1020,Oman,Water bottles,Thermo Flask,2.0,5.14,10.28
+1021,Oman,Water bottles,Glass Bottle,5.0,4.07,20.35
+1022,Oman,TShirts,Full Sleeve,2.0,4.85,9.7
+1023,Oman,Smart Phone,Galaxy S,1.0,4.07,4.07
+1024,Oman,Water bottles,Glass Bottle,1.0,4.85,4.85
+1025,Oman,Water bottles,Thermo Flask,4.0,3.09,12.36
+1026,Oman,Shoes,Sneakers,2.0,3.77,7.54
+1027,Oman,Jeans,Tapered,2.0,4.32,8.64
+1028,Oman,TShirts,Round Neck,3.0,2.35,7.05
+1029,Oman,TShirts,Full Sleeve,2.0,4.09,8.18
+1030,Oman,Shoes,Sandals,4.0,2.87,11.48
+1031,Oman,Perfumes,Ocean Breeze,3.0,3.62,10.86
+1032,Oman,Water bottles,Glass Bottle,3.0,2.55,7.65
+1033,Oman,TShirts,Sleeveless,3.0,3.33,9.99
+1034,Oman,Water bottles,Sport Bottle,5.0,5.4,27.0
+1035,Oman,Perfumes,Ocean Breeze,1.0,3.56,3.56
+1036,Oman,Jeans,Regular Fit,1.0,3.62,3.62
+1037,Oman,Perfumes,Amber Spice,3.0,4.01,12.03
+1038,Oman,Water bottles,Plastic Sipper,2.0,2.55,5.1
+1039,Oman,Smart Phone,Moto Edge,3.0,4.3,12.9
+1040,Oman,Perfumes,Citrus Splash,3.0,2.37,7.11
+1041,Oman,TShirts,V-Neck,1.0,4.21,4.21
+1042,Oman,Perfumes,Oud Royale,2.0,5.1,10.2
+1043,Oman,Perfumes,Lavender Calm,4.0,3.14,12.56
+1044,Oman,Perfumes,Ocean Breeze,2.0,4.45,8.9
+1045,Oman,Perfumes,Lavender Calm,5.0,5.35,26.75
+1046,Oman,Jeans,Skinny Jeans,2.0,4.72,9.44
+1047,Oman,Jeans,Bootcut,1.0,4.89,4.89
+1048,Oman,TShirts,Full Sleeve,1.0,4.85,4.85
+1049,Oman,Water bottles,Sport Bottle,5.0,2.92,14.6
+1050,Oman,TShirts,V-Neck,2.0,4.18,8.36
+1051,Oman,Perfumes,Ocean Breeze,1.0,3.36,3.36
+1052,Oman,Perfumes,Oud Royale,2.0,4.02,8.04
+1053,Oman,Water bottles,Sport Bottle,3.0,4.25,12.75
+1054,Oman,Jeans,Regular Fit,4.0,3.45,13.8
+1055,Oman,Water bottles,Steel Flask,4.0,3.59,14.36
+1056,Oman,Smart Phone,Moto Edge,3.0,4.76,14.28
+1057,Oman,TShirts,V-Neck,1.0,4.98,4.98
+1058,Oman,Perfumes,Lavender Calm,3.0,2.43,7.29
+1059,Oman,Smart Phone,OnePlus Neo,5.0,5.11,25.55
+1060,Oman,Perfumes,Oud Royale,1.0,3.12,3.12
+1061,Oman,Smart Phone,Galaxy S,1.0,3.61,3.61
+1062,Oman,TShirts,Sleeveless,5.0,4.64,23.2
+1063,Oman,Shoes,Sneakers,2.0,2.46,4.92
+1064,Oman,TShirts,Printed Tee,1.0,3.07,3.07
+1065,Oman,Jeans,Regular Fit,2.0,5.11,10.22
+1066,Oman,Perfumes,Ocean Breeze,5.0,4.49,22.45
+1067,Oman,Jeans,Slim Fit,4.0,3.77,15.08
+1068,Oman,Water bottles,Steel Flask,2.0,4.81,9.62
+1069,Oman,Shoes,Loafers,3.0,2.55,7.65
+1070,Oman,TShirts,V-Neck,5.0,4.13,20.65
+1071,Oman,Smart Phone,Pixel Max,1.0,5.1,5.1
+1072,Oman,Shoes,Sports Shoes,2.0,4.38,8.76
+1073,Oman,Perfumes,Floral Mist,5.0,4.55,22.75
+1074,Oman,Smart Phone,Android Pro,3.0,3.21,9.63
+1075,Oman,TShirts,Printed Tee,5.0,5.45,27.25
+1076,Oman,TShirts,Round Neck,3.0,2.87,8.61
+1077,Oman,Jeans,Relaxed Fit,1.0,4.62,4.62
+1078,Oman,Smart Phone,OnePlus Neo,,3.49,
+1079,Oman,Shoes,Sneakers,1.0,3.99,3.99
+1080,Oman,Smart Phone,Moto Edge,4.0,5.2,20.8
+1081,Oman,Shoes,Sneakers,4.0,4.43,17.72
+1082,Oman,Jeans,Relaxed Fit,5.0,3.79,18.95
+1083,Oman,Smart Phone,Android Pro,2.0,5.5,11.0
+1084,Oman,Smart Phone,Moto Edge,4.0,4.01,16.04
+1085,Oman,Water bottles,Thermo Flask,1.0,3.72,3.72
+1086,Oman,Jeans,Slim Fit,3.0,5.55,16.65
+1087,Oman,Water bottles,Steel Flask,2.0,3.89,7.78
+1088,Oman,Water bottles,Plastic Sipper,3.0,5.23,15.69
+1089,Oman,Shoes,Loafers,1.0,4.35,4.35
+1090,Oman,Smart Phone,iSmart X,2.0,2.49,4.98
+1091,Oman,TShirts,Polo Tee,2.0,2.37,4.74
+1092,Oman,Water bottles,Glass Bottle,2.0,3.04,6.08
+1093,Oman,Perfumes,Citrus Splash,4.0,2.48,9.92
+1094,Oman,Smart Phone,Galaxy S,3.0,4.62,13.86
+1095,Oman,Water bottles,Sport Bottle,5.0,3.07,15.35
+1096,Oman,TShirts,Full Sleeve,1.0,4.65,4.65
+1097,Oman,Shoes,Sandals,4.0,3.75,15.0
+1098,Oman,Water bottles,Glass Bottle,1.0,4.57,4.57
+1099,Oman,Water bottles,Copper Bottle,2.0,5.15,10.3
+1100,Oman,Shoes,Formal Shoes,2.0,3.4,6.8
+1101,Oman,Perfumes,Ocean Breeze,,4.59,
+1102,Oman,TShirts,V-Neck,4.0,2.38,9.52
+1103,Oman,Water bottles,Plastic Sipper,5.0,5.26,26.3
+1104,Oman,Smart Phone,Pixel Max,4.0,4.16,16.64
+1105,Oman,Water bottles,Glass Bottle,4.0,2.74,10.96
+1106,Oman,Smart Phone,Moto Edge,2.0,3.95,7.9
+1107,Oman,Perfumes,Amber Spice,1.0,4.65,4.65
+1108,Oman,Perfumes,Oud Royale,3.0,4.12,12.36
+1109,Oman,Water bottles,Steel Flask,1.0,3.34,3.34
+1110,Oman,Perfumes,Lavender Calm,2.0,2.58,5.16
+1111,Oman,Perfumes,Lavender Calm,1.0,5.55,5.55
+1112,Oman,Water bottles,Copper Bottle,4.0,5.23,20.92
+1113,Oman,Jeans,Skinny Jeans,5.0,3.21,16.05
+1114,Oman,Jeans,Regular Fit,5.0,3.2,16.0
+1115,Oman,Water bottles,Thermo Flask,4.0,5.17,20.68
+1116,Oman,Perfumes,Ocean Breeze,1.0,3.41,3.41
+1117,Oman,TShirts,Full Sleeve,3.0,3.27,9.81
+1118,Oman,Jeans,Bootcut,4.0,2.52,10.08
+1119,Oman,Jeans,Tapered,2.0,4.72,9.44
+1120,Oman,Water bottles,Plastic Sipper,2.0,3.21,6.42
+1121,Oman,Jeans,Bootcut,5.0,4.81,24.05
+1122,Oman,Smart Phone,OnePlus Neo,4.0,5.37,21.48
+1123,Oman,Shoes,Casual Shoes,1.0,4.61,4.61
+1124,Oman,Smart Phone,Galaxy S,5.0,3.55,17.75
+1125,Oman,Perfumes,,1.0,4.01,4.01
+1126,Oman,Perfumes,Lavender Calm,3.0,5.1,15.3
+1127,Oman,TShirts,Full Sleeve,4.0,3.39,13.56
+1128,Oman,Smart Phone,iSmart X,2.0,3.73,7.46
+1129,Oman,Smart Phone,iSmart X,1.0,3.5,3.5
+1130,Oman,Perfumes,Floral Mist,4.0,4.1,16.4
+1131,Oman,Jeans,Bootcut,1.0,3.12,3.12
+1132,Oman,TShirts,Printed Tee,2.0,3.27,6.54
+1133,Oman,Shoes,Sneakers,1.0,5.23,5.23
+1134,Oman,TShirts,Full Sleeve,3.0,3.52,10.56
+1135,Oman,Water bottles,Steel Flask,2.0,5.1,10.2
+1136,Oman,Smart Phone,iSmart X,1.0,3.53,3.53
+1137,Oman,Water bottles,Copper Bottle,5.0,4.59,22.95
+1138,Oman,Smart Phone,Pixel Max,2.0,4.46,8.92
+1139,Oman,Perfumes,Ocean Breeze,2.0,2.64,5.28
+1140,Oman,Jeans,Relaxed Fit,2.0,5.3,10.6
+1141,Oman,Jeans,Tapered,5.0,3.97,19.85
+1142,Oman,Jeans,,2.0,4.59,9.18
+1143,Oman,Smart Phone,Pixel Max,3.0,2.66,7.98
+1144,Oman,Water bottles,Thermo Flask,5.0,4.72,23.6
+1145,Oman,TShirts,Round Neck,4.0,5.36,21.44
+1146,Oman,Water bottles,Sport Bottle,3.0,3.32,9.96
+1147,Oman,Jeans,Slim Fit,5.0,2.5,12.5
+1148,Oman,Smart Phone,iSmart X,4.0,4.0,16.0
+1149,Oman,Shoes,Sandals,4.0,4.24,16.96
+1150,Oman,Jeans,Bootcut,5.0,3.58,17.9
+1151,Oman,Shoes,Formal Shoes,5.0,2.91,14.55
+1152,Oman,Water bottles,Sport Bottle,2.0,3.42,6.84
+1153,Oman,Jeans,Regular Fit,,5.33,
+1154,Oman,Shoes,Formal Shoes,3.0,3.15,9.45
+1155,Oman,Perfumes,Citrus Splash,1.0,4.91,4.91
+1156,Oman,Jeans,Slim Fit,5.0,4.01,20.05
+1157,Oman,Smart Phone,Galaxy S,4.0,4.34,17.36
+1158,Oman,Water bottles,Sport Bottle,3.0,2.79,8.37
+1159,Oman,TShirts,Printed Tee,3.0,4.35,13.05
+1160,Oman,Jeans,Relaxed Fit,4.0,3.97,15.88
+1161,Oman,Jeans,,3.0,5.15,15.45
+1162,Oman,Shoes,Sneakers,1.0,4.72,4.72
+1163,Oman,Jeans,Bootcut,4.0,2.62,10.48
+1164,Oman,Perfumes,Oud Royale,5.0,4.02,20.1
+1165,Oman,Jeans,Bootcut,3.0,5.0,15.0
+1166,Oman,Jeans,Slim Fit,4.0,4.49,17.96
+1167,Oman,TShirts,Full Sleeve,3.0,4.78,14.34
+1168,Oman,TShirts,V-Neck,4.0,4.12,16.48
+1169,Oman,Jeans,Skinny Jeans,,3.39,
+1170,Oman,Water bottles,Copper Bottle,4.0,3.66,14.64
+1171,Oman,Shoes,Sneakers,3.0,4.29,12.87
+1172,Oman,Water bottles,Sport Bottle,2.0,2.95,5.9
+1173,Oman,Smart Phone,Moto Edge,2.0,4.81,9.62
+1174,Oman,Shoes,Sandals,3.0,2.45,7.35
+1175,Oman,Perfumes,Ocean Breeze,4.0,4.41,17.64
+1176,Oman,Perfumes,Amber Spice,5.0,4.77,23.85
+1177,Oman,Jeans,Slim Fit,,3.42,
+1178,Oman,Water bottles,Copper Bottle,5.0,4.99,24.95
+1179,Oman,Perfumes,Lavender Calm,4.0,5.12,20.48
+1180,Oman,Jeans,Bootcut,2.0,3.36,6.72
+1181,Oman,Perfumes,Amber Spice,1.0,4.61,4.61
+1182,Oman,Water bottles,Thermo Flask,5.0,3.55,17.75
+1183,Oman,Smart Phone,iSmart X,4.0,2.35,9.4
+1184,Oman,Water bottles,Glass Bottle,3.0,3.79,11.37
+1185,Oman,Shoes,Formal Shoes,5.0,3.32,16.6
+1186,Oman,Perfumes,Citrus Splash,4.0,3.13,12.52
+1187,Oman,Water bottles,Copper Bottle,2.0,2.79,5.58
+1188,Oman,Shoes,Formal Shoes,4.0,4.81,19.24
+1189,Oman,TShirts,Polo Tee,3.0,5.54,16.62
+1190,Oman,Water bottles,Glass Bottle,5.0,3.75,18.75
+1191,Oman,Water bottles,Thermo Flask,3.0,3.16,9.48
+1192,Oman,Perfumes,Oud Royale,1.0,5.43,5.43
+1193,Oman,Smart Phone,OnePlus Neo,4.0,4.61,18.44
+1194,Oman,Water bottles,Sport Bottle,1.0,2.48,2.48
+1195,Oman,Smart Phone,Pixel Max,5.0,3.85,19.25
+1196,Oman,Perfumes,Floral Mist,2.0,5.21,10.42
+1197,Oman,Shoes,Casual Shoes,4.0,4.24,16.96
+1198,Oman,Water bottles,Plastic Sipper,5.0,2.86,14.3
+1199,Oman,Shoes,Sports Shoes,2.0,5.2,10.4
