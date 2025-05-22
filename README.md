@@ -51,3 +51,10 @@ for eg.
    - Normalize schema to standard format:  
      `SaleId, Country, Category, Product, Qty, Amount`
 3. **Load**: Store final cleaned and unified data in **BigQuery**.
+
+
+## 📊 Data Analysis & Reporting
+
+### 📁 A. Sales Summary Report
+- Deliverable: Google Cloud link (CSV/Excel)
+- Fields: `SaleId`	`Country`	`Category`	`Product`	`Qty`	`Price`	`Amount`	`INR_Amount`
