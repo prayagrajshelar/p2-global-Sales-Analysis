@@ -1,0 +1,200 @@
+SaleId,Country,Category,Product,Qty,Price,Amount,Sale_Date
+1,Norway,Smart Phone,Galaxy S,4.0,79.97,319.88,2025-03-09
+2,Norway,Perfumes,Citrus Splash,4.0,105.92,423.68,2024-10-12
+3,Norway,Perfumes,Lavender Calm,3.0,94.21,282.63,2024-06-06
+4,Norway,Perfumes,Lavender Calm,3.0,74.69,224.07,2025-02-07
+5,Norway,Smart Phone,Galaxy S,3.0,103.9,311.7,2024-07-22
+6,Norway,Smart Phone,Android Pro,3.0,83.0,249.0,2024-08-04
+7,Norway,Smart Phone,Moto Edge,5.0,69.65,348.25,2024-07-23
+8,Norway,Water bottles,Steel Flask,4.0,131.61,526.44,2025-01-25
+9,Norway,Shoes,Sandals,1.0,63.98,63.98,2024-07-13
+10,Norway,Perfumes,Lavender Calm,1.0,69.4,69.4,2024-08-12
+11,Norway,Jeans,Bootcut,4.0,123.05,492.2,2024-11-28
+12,Norway,Water bottles,Steel Flask,3.0,113.35,340.05,2024-07-23
+13,Norway,Shoes,Sports Shoes,4.0,142.19,568.76,2025-01-09
+14,Norway,Water bottles,Copper Bottle,5.0,138.92,694.6,2024-06-25
+15,Norway,Shoes,Formal Shoes,3.0,99.24,297.72,2024-07-04
+16,Norway,Perfumes,Amber Spice,1.0,123.93,123.93,2024-11-13
+17,Norway,Perfumes,Amber Spice,,91.44,,2024-06-21
+18,Norway,Shoes,Formal Shoes,5.0,113.48,567.4,2025-02-06
+19,Norway,Smart Phone,iSmart X,1.0,82.12,82.12,2025-03-01
+20,Norway,Water bottles,Glass Bottle,1.0,119.4,119.4,2025-04-25
+21,Norway,TShirts,V-Neck,3.0,114.86,344.58,2024-10-23
+22,Norway,Jeans,Slim Fit,1.0,142.7,142.7,2024-10-12
+23,Norway,Smart Phone,Galaxy S,2.0,94.08,188.16,2025-04-01
+24,Norway,Jeans,Slim Fit,2.0,121.41,242.82,2025-05-08
+25,Norway,Perfumes,Oud Royale,1.0,113.22,113.22,2025-01-08
+26,Norway,Jeans,Slim Fit,2.0,136.15,272.3,2025-02-20
+27,Norway,Smart Phone,iSmart X,3.0,67.13,201.39,2024-12-19
+28,Norway,Water bottles,Sport Bottle,3.0,71.41,214.23,2025-03-08
+29,Norway,Perfumes,Lavender Calm,4.0,112.47,449.88,2024-06-25
+30,Norway,TShirts,Polo Tee,2.0,123.8,247.6,2024-11-22
+31,Norway,Shoes,Casual Shoes,2.0,105.79,211.58,2024-12-01
+32,Norway,Shoes,Formal Shoes,2.0,106.55,213.1,2024-05-27
+33,Norway,Perfumes,Floral Mist,4.0,140.55,562.2,2025-01-29
+34,Norway,TShirts,Printed Tee,2.0,71.91,143.82,2024-12-23
+35,Norway,Water bottles,Plastic Sipper,2.0,72.67,145.34,2025-05-17
+36,Norway,Perfumes,Amber Spice,4.0,103.78,415.12,2025-03-05
+37,Norway,Water bottles,Copper Bottle,2.0,133.12,266.24,2025-05-09
+38,Norway,TShirts,Polo Tee,4.0,75.69,302.76,2024-09-30
+39,Norway,Jeans,Bootcut,4.0,104.53,418.12,2025-03-10
+40,Norway,Shoes,Sneakers,1.0,83.63,83.63,2024-10-14
+41,Norway,Jeans,Tapered,4.0,90.3,361.2,2024-07-08
+42,Norway,Jeans,Slim Fit,2.0,85.26,170.52,2024-06-28
+43,Norway,Smart Phone,Android Pro,5.0,63.73,318.65,2024-12-22
+44,Norway,Perfumes,Floral Mist,4.0,86.4,345.6,2025-04-23
+45,Norway,Smart Phone,Pixel Max,3.0,145.97,437.91,2024-07-04
+46,Norway,Perfumes,Citrus Splash,4.0,111.84,447.36,2025-02-27
+47,Norway,Jeans,Tapered,3.0,130.1,390.3,2024-11-09
+48,Norway,Shoes,Sneakers,3.0,129.85,389.55,2024-09-09
+49,Norway,Perfumes,Amber Spice,5.0,75.82,379.1,2024-10-25
+50,Norway,Water bottles,Glass Bottle,3.0,98.61,295.83,2025-05-05
+51,Norway,Perfumes,Amber Spice,2.0,106.93,213.86,2024-08-26
+52,Norway,Shoes,Loafers,4.0,100.5,402.0,2024-11-07
+53,Norway,Jeans,Regular Fit,1.0,89.67,89.67,2025-02-25
+54,Norway,Shoes,Loafers,5.0,76.7,383.5,2024-09-01
+55,Norway,TShirts,Printed Tee,4.0,117.51,470.04,2024-12-24
+56,Norway,Jeans,Tapered,1.0,130.86,130.86,2025-02-25
+57,Norway,Jeans,Slim Fit,3.0,78.72,236.16,2025-01-16
+58,Norway,Perfumes,Ocean Breeze,5.0,63.98,319.9,2024-09-12
+59,Norway,Jeans,Bootcut,3.0,132.24,396.72,2024-07-21
+60,Norway,TShirts,Round Neck,5.0,85.26,426.3,2024-06-29
+61,Norway,Shoes,Loafers,5.0,94.21,471.05,2024-07-02
+62,Norway,Jeans,Tapered,3.0,66.37,199.11,2025-01-16
+63,Norway,Jeans,Bootcut,5.0,131.86,659.3,2025-05-07
+64,Norway,Water bottles,Copper Bottle,4.0,126.83,507.32,2025-01-22
+65,Norway,Water bottles,Steel Flask,1.0,117.63,117.63,2025-04-02
+66,Norway,Shoes,Formal Shoes,2.0,149.87,299.74,2024-06-05
+67,Norway,Perfumes,Ocean Breeze,3.0,80.6,241.8,2024-10-24
+68,Norway,Shoes,Sandals,3.0,80.48,241.44,2024-07-26
+69,Norway,Smart Phone,Galaxy S,1.0,124.69,124.69,2024-12-31
+70,Norway,Water bottles,Copper Bottle,1.0,88.41,88.41,2025-05-11
+71,Norway,TShirts,Full Sleeve,2.0,88.16,176.32,2024-07-02
+72,Norway,Smart Phone,iSmart X,3.0,113.85,341.55,2025-04-10
+73,Norway,Perfumes,Lavender Calm,1.0,78.09,78.09,2025-03-21
+74,Norway,Shoes,Casual Shoes,1.0,143.07,143.07,2025-01-11
+75,Norway,Smart Phone,Galaxy S,4.0,94.33,377.32,2025-04-03
+76,Norway,Jeans,Bootcut,3.0,112.72,338.16,2024-09-28
+77,Norway,TShirts,Sleeveless,4.0,79.09,316.36,2025-02-28
+78,Norway,Shoes,Formal Shoes,5.0,135.89,679.45,2024-06-30
+79,Norway,Shoes,Loafers,4.0,109.57,438.28,2025-01-12
+80,Norway,Perfumes,Floral Mist,3.0,71.54,214.62,2025-04-13
+81,Norway,Shoes,Sneakers,3.0,148.49,445.47,2025-02-24
+82,Norway,Smart Phone,Pixel Max,1.0,120.53,120.53,2025-05-17
+83,Norway,Shoes,Sneakers,1.0,67.63,67.63,2024-07-13
+84,Norway,Perfumes,,2.0,95.59,191.18,2025-05-06
+85,Norway,Jeans,Regular Fit,2.0,123.05,246.1,2025-01-17
+86,Norway,Water bottles,Thermo Flask,3.0,81.61,244.83,2024-11-22
+87,Norway,Shoes,Sports Shoes,5.0,120.53,602.65,2025-01-26
+88,Norway,TShirts,Polo Tee,1.0,116.37,116.37,2025-03-16
+89,Norway,Jeans,Tapered,3.0,140.18,420.54,2025-02-26
+90,Norway,Water bottles,Plastic Sipper,4.0,99.87,399.48,2024-12-14
+91,Norway,Perfumes,Amber Spice,5.0,116.12,580.6,2024-10-03
+92,Norway,TShirts,V-Neck,1.0,70.78,70.78,2024-05-22
+93,Norway,Perfumes,Lavender Calm,3.0,110.58,331.74,2025-03-14
+94,Norway,Jeans,Tapered,4.0,119.65,478.6,2024-06-04
+95,Norway,Shoes,Sports Shoes,4.0,77.83,311.32,2025-04-30
+96,Norway,Shoes,Formal Shoes,5.0,104.28,521.4,2024-10-27
+97,Norway,Smart Phone,Android Pro,3.0,145.59,436.77,2024-06-22
+98,Norway,Jeans,Tapered,1.0,143.95,143.95,2024-10-30
+99,Norway,Smart Phone,Pixel Max,5.0,64.74,323.7,2024-11-18
+100,Norway,Jeans,Slim Fit,4.0,132.37,529.48,2024-07-30
+101,Norway,Shoes,Sandals,5.0,121.16,605.8,2024-11-22
+102,Norway,Smart Phone,Galaxy S,5.0,123.93,619.65,2024-11-23
+103,Norway,TShirts,V-Neck,5.0,128.09,640.45,2024-09-17
+104,Norway,Shoes,Loafers,2.0,89.92,179.84,2024-10-31
+105,Norway,TShirts,Printed Tee,5.0,104.53,522.65,2024-07-03
+106,Norway,TShirts,V-Neck,4.0,87.28,349.12,2025-05-05
+107,Norway,Water bottles,Glass Bottle,3.0,103.65,310.95,2024-10-20
+108,Norway,Water bottles,Glass Bottle,2.0,85.14,170.28,2024-10-06
+109,Norway,Perfumes,Floral Mist,5.0,116.88,584.4,2025-02-27
+110,Norway,Perfumes,Citrus Splash,,102.77,,2024-10-11
+111,Norway,Water bottles,Copper Bottle,1.0,119.65,119.65,2024-08-28
+112,Norway,Water bottles,Thermo Flask,1.0,82.12,82.12,2025-03-27
+113,Norway,Water bottles,Glass Bottle,2.0,70.15,140.3,2025-02-04
+114,Norway,Shoes,Sports Shoes,3.0,115.37,346.11,2024-12-17
+115,Norway,Shoes,Sandals,5.0,144.96,724.8,2024-10-24
+116,Norway,Shoes,Casual Shoes,4.0,134.63,538.52,2024-09-11
+117,Norway,Shoes,,3.0,122.29,366.87,2024-08-11
+118,Norway,Water bottles,Sport Bottle,3.0,69.14,207.42,2024-12-23
+119,Norway,Smart Phone,Moto Edge,3.0,89.17,267.51,2024-11-25
+120,Norway,Shoes,Sports Shoes,5.0,70.4,352.0,2024-09-23
+121,Norway,TShirts,V-Neck,4.0,79.35,317.4,2024-09-27
+122,Norway,Jeans,Skinny Jeans,5.0,94.84,474.2,2025-04-10
+123,Norway,Perfumes,Citrus Splash,3.0,96.47,289.41,2024-11-12
+124,Norway,TShirts,Polo Tee,2.0,126.2,252.4,2024-08-02
+125,Norway,Water bottles,Plastic Sipper,1.0,88.04,88.04,2024-06-01
+126,Norway,Perfumes,Citrus Splash,4.0,82.75,331.0,2025-03-19
+127,Norway,Smart Phone,iSmart X,1.0,126.45,126.45,2024-10-09
+128,Norway,TShirts,Sleeveless,2.0,91.18,182.36,2025-02-14
+129,Norway,Water bottles,Sport Bottle,3.0,142.57,427.71,2025-05-04
+130,Norway,Shoes,Sneakers,4.0,136.65,546.6,2025-05-11
+131,Norway,Perfumes,Oud Royale,5.0,88.16,440.8,2024-12-14
+132,Norway,Shoes,,3.0,107.93,323.79,2025-04-09
+133,Norway,Jeans,Regular Fit,3.0,145.47,436.41,2025-01-30
+134,Norway,Smart Phone,Galaxy S,1.0,103.65,103.65,2025-04-21
+135,Norway,Jeans,Bootcut,4.0,93.83,375.32,2024-06-06
+136,Norway,TShirts,V-Neck,4.0,86.65,346.6,2024-07-31
+137,Norway,Perfumes,Oud Royale,3.0,75.94,227.82,2024-08-09
+138,Norway,Jeans,Slim Fit,5.0,88.04,440.2,2024-12-06
+139,Norway,Smart Phone,Galaxy S,4.0,72.54,290.16,2024-07-25
+140,Norway,Shoes,Sandals,3.0,99.87,299.61,2024-06-28
+141,Norway,Shoes,Sneakers,5.0,84.01,420.05,2025-03-29
+142,Norway,Smart Phone,Android Pro,5.0,150.5,752.5,2025-02-20
+143,Norway,Perfumes,,1.0,141.69,141.69,2025-05-07
+144,Norway,Water bottles,Glass Bottle,4.0,117.63,470.52,2024-12-06
+145,Norway,Perfumes,Oud Royale,1.0,100.88,100.88,2025-02-05
+146,Norway,TShirts,Sleeveless,5.0,113.98,569.9,2024-05-24
+147,Norway,Water bottles,Glass Bottle,4.0,148.99,595.96,2024-09-18
+148,Norway,Jeans,Slim Fit,3.0,107.3,321.9,2024-07-23
+149,Norway,Jeans,Bootcut,,137.28,,2024-07-27
+150,Norway,Smart Phone,OnePlus Neo,5.0,97.86,489.3,2025-04-25
+151,Norway,Water bottles,Glass Bottle,1.0,92.82,92.82,2024-09-16
+152,Norway,TShirts,Printed Tee,4.0,71.54,286.16,2024-11-17
+153,Norway,TShirts,Sleeveless,1.0,93.95,93.95,2024-09-19
+154,Norway,Jeans,Relaxed Fit,3.0,143.2,429.6,2024-06-26
+155,Norway,Smart Phone,Moto Edge,3.0,66.5,199.5,2025-01-03
+156,Norway,Perfumes,Ocean Breeze,1.0,129.22,129.22,2025-04-27
+157,Norway,Perfumes,Floral Mist,4.0,145.72,582.88,2024-07-06
+158,Norway,Smart Phone,Moto Edge,2.0,128.72,257.44,2025-01-10
+159,Norway,TShirts,Round Neck,3.0,142.7,428.1,2025-02-20
+160,Norway,Water bottles,Thermo Flask,4.0,93.45,373.8,2025-05-14
+161,Norway,TShirts,Polo Tee,3.0,135.14,405.42,2024-12-10
+162,Norway,Jeans,Skinny Jeans,4.0,100.76,403.04,2024-10-20
+163,Norway,Smart Phone,Galaxy S,5.0,99.87,499.35,2025-02-15
+164,Norway,TShirts,Round Neck,4.0,65.49,261.96,2024-10-17
+165,Norway,TShirts,V-Neck,4.0,97.1,388.4,2024-12-30
+166,Norway,Perfumes,Citrus Splash,3.0,106.93,320.79,2025-01-23
+167,Norway,Smart Phone,Moto Edge,4.0,133.5,534.0,2025-02-06
+168,Norway,Water bottles,Glass Bottle,4.0,63.48,253.92,2025-05-14
+169,Norway,Jeans,Slim Fit,2.0,94.33,188.66,2025-03-03
+170,Norway,Perfumes,Floral Mist,4.0,131.61,526.44,2024-09-15
+171,Norway,Shoes,Casual Shoes,4.0,78.97,315.88,2025-04-11
+172,Norway,Shoes,Sneakers,5.0,85.26,426.3,2025-04-03
+173,Norway,Jeans,Regular Fit,5.0,104.16,520.8,2024-08-05
+174,Norway,Perfumes,Oud Royale,2.0,67.38,134.76,2024-07-27
+175,Norway,TShirts,Sleeveless,3.0,81.11,243.33,2024-08-15
+176,Norway,Water bottles,Sport Bottle,2.0,80.1,160.2,2025-05-19
+177,Norway,Perfumes,Citrus Splash,2.0,151.13,302.26,2024-08-28
+178,Norway,Perfumes,Floral Mist,5.0,133.5,667.5,2025-03-31
+179,Norway,Jeans,Relaxed Fit,5.0,95.59,477.95,2024-07-28
+180,Norway,TShirts,Polo Tee,4.0,89.42,357.68,2025-02-02
+181,Norway,Shoes,Sneakers,1.0,71.66,71.66,2024-07-17
+182,Norway,Water bottles,Copper Bottle,4.0,73.3,293.2,2024-09-11
+183,Norway,Smart Phone,iSmart X,2.0,86.65,173.3,2024-05-29
+184,Norway,TShirts,,,126.07,,2025-01-07
+185,Norway,Water bottles,Thermo Flask,1.0,138.04,138.04,2025-02-27
+186,Norway,Perfumes,Citrus Splash,1.0,124.81,124.81,2024-09-22
+187,Norway,Perfumes,Oud Royale,2.0,106.05,212.1,2025-04-13
+188,Norway,Shoes,Loafers,2.0,71.16,142.32,2024-09-02
+189,Norway,Perfumes,Oud Royale,4.0,122.92,491.68,2024-06-16
+190,Norway,Water bottles,Glass Bottle,5.0,92.7,463.5,2024-10-22
+191,Norway,Smart Phone,iSmart X,5.0,115.99,579.95,2024-07-21
+192,Norway,Shoes,Loafers,2.0,150.88,301.76,2025-02-18
+193,Norway,TShirts,Printed Tee,2.0,77.71,155.42,2024-07-08
+194,Norway,TShirts,Printed Tee,5.0,110.83,554.15,2025-02-13
+195,Norway,Perfumes,Lavender Calm,2.0,79.22,158.44,2025-03-28
+196,Norway,Shoes,Sports Shoes,3.0,102.14,306.42,2024-07-21
+197,Norway,Perfumes,Ocean Breeze,4.0,119.65,478.6,2025-05-05
+198,Norway,Jeans,Bootcut,3.0,88.66,265.98,2024-09-03
+199,Norway,Smart Phone,iSmart X,2.0,101.26,202.52,2024-05-30

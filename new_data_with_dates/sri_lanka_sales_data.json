@@ -1,0 +1,2002 @@
+[
+  {
+    "SaleId":1,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":3.0,
+    "Price":2351.85,
+    "Amount":7055.55,
+    "Sale_Date":"2025-05-09"
+  },
+  {
+    "SaleId":2,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Loafers",
+    "Qty":5.0,
+    "Price":1937.04,
+    "Amount":9685.2,
+    "Sale_Date":"2024-09-28"
+  },
+  {
+    "SaleId":3,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sports Shoes",
+    "Qty":5.0,
+    "Price":3133.33,
+    "Amount":15666.65,
+    "Sale_Date":"2024-12-31"
+  },
+  {
+    "SaleId":4,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Round Neck",
+    "Qty":2.0,
+    "Price":2133.33,
+    "Amount":4266.66,
+    "Sale_Date":"2025-03-17"
+  },
+  {
+    "SaleId":5,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Moto Edge",
+    "Qty":2.0,
+    "Price":2911.11,
+    "Amount":5822.22,
+    "Sale_Date":"2024-08-15"
+  },
+  {
+    "SaleId":6,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":1.0,
+    "Price":4040.74,
+    "Amount":4040.74,
+    "Sale_Date":"2024-11-26"
+  },
+  {
+    "SaleId":7,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Thermo Flask",
+    "Qty":3.0,
+    "Price":3429.63,
+    "Amount":10288.89,
+    "Sale_Date":"2024-12-17"
+  },
+  {
+    "SaleId":8,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sandals",
+    "Qty":4.0,
+    "Price":1874.07,
+    "Amount":7496.28,
+    "Sale_Date":"2024-08-14"
+  },
+  {
+    "SaleId":9,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":4.0,
+    "Price":2914.81,
+    "Amount":11659.24,
+    "Sale_Date":"2024-08-31"
+  },
+  {
+    "SaleId":10,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Round Neck",
+    "Qty":3.0,
+    "Price":2055.56,
+    "Amount":6166.68,
+    "Sale_Date":"2024-12-07"
+  },
+  {
+    "SaleId":11,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":1.0,
+    "Price":2814.81,
+    "Amount":2814.81,
+    "Sale_Date":"2024-06-21"
+  },
+  {
+    "SaleId":12,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Copper Bottle",
+    "Qty":5.0,
+    "Price":4025.93,
+    "Amount":20129.65,
+    "Sale_Date":"2025-01-07"
+  },
+  {
+    "SaleId":13,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":1.0,
+    "Price":2359.26,
+    "Amount":2359.26,
+    "Sale_Date":"2025-05-08"
+  },
+  {
+    "SaleId":14,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Galaxy S",
+    "Qty":3.0,
+    "Price":2255.56,
+    "Amount":6766.68,
+    "Sale_Date":"2024-10-20"
+  },
+  {
+    "SaleId":15,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Slim Fit",
+    "Qty":2.0,
+    "Price":3755.56,
+    "Amount":7511.12,
+    "Sale_Date":"2025-04-25"
+  },
+  {
+    "SaleId":16,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Galaxy S",
+    "Qty":1.0,
+    "Price":2974.07,
+    "Amount":2974.07,
+    "Sale_Date":"2024-07-02"
+  },
+  {
+    "SaleId":17,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Full Sleeve",
+    "Qty":1.0,
+    "Price":3514.81,
+    "Amount":3514.81,
+    "Sale_Date":"2024-12-02"
+  },
+  {
+    "SaleId":18,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":4.0,
+    "Price":3511.11,
+    "Amount":14044.44,
+    "Sale_Date":"2025-01-09"
+  },
+  {
+    "SaleId":19,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":2.0,
+    "Price":3444.44,
+    "Amount":6888.88,
+    "Sale_Date":"2024-12-27"
+  },
+  {
+    "SaleId":20,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Round Neck",
+    "Qty":5.0,
+    "Price":2829.63,
+    "Amount":14148.15,
+    "Sale_Date":"2025-02-26"
+  },
+  {
+    "SaleId":21,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":5.0,
+    "Price":1985.19,
+    "Amount":9925.95,
+    "Sale_Date":"2024-05-28"
+  },
+  {
+    "SaleId":22,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sneakers",
+    "Qty":4.0,
+    "Price":2574.07,
+    "Amount":10296.28,
+    "Sale_Date":"2024-07-06"
+  },
+  {
+    "SaleId":23,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Formal Shoes",
+    "Qty":2.0,
+    "Price":4300.0,
+    "Amount":8600.0,
+    "Sale_Date":"2025-03-13"
+  },
+  {
+    "SaleId":24,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":1.0,
+    "Price":2585.19,
+    "Amount":2585.19,
+    "Sale_Date":"2024-09-04"
+  },
+  {
+    "SaleId":25,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Amber Spice",
+    "Qty":1.0,
+    "Price":4044.44,
+    "Amount":4044.44,
+    "Sale_Date":"2024-10-04"
+  },
+  {
+    "SaleId":26,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Galaxy S",
+    "Qty":5.0,
+    "Price":2244.44,
+    "Amount":11222.2,
+    "Sale_Date":"2025-03-21"
+  },
+  {
+    "SaleId":27,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":4.0,
+    "Price":2962.96,
+    "Amount":11851.84,
+    "Sale_Date":"2024-07-18"
+  },
+  {
+    "SaleId":28,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Tapered",
+    "Qty":1.0,
+    "Price":3396.3,
+    "Amount":3396.3,
+    "Sale_Date":"2024-10-22"
+  },
+  {
+    "SaleId":29,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":2.0,
+    "Price":3900.0,
+    "Amount":7800.0,
+    "Sale_Date":"2025-01-12"
+  },
+  {
+    "SaleId":30,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":4.0,
+    "Price":2181.48,
+    "Amount":8725.92,
+    "Sale_Date":"2024-07-03"
+  },
+  {
+    "SaleId":31,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":5.0,
+    "Price":4300.0,
+    "Amount":21500.0,
+    "Sale_Date":"2024-10-21"
+  },
+  {
+    "SaleId":32,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Casual Shoes",
+    "Qty":2.0,
+    "Price":3485.19,
+    "Amount":6970.38,
+    "Sale_Date":"2024-12-30"
+  },
+  {
+    "SaleId":33,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":3.0,
+    "Price":2122.22,
+    "Amount":6366.66,
+    "Sale_Date":"2024-11-04"
+  },
+  {
+    "SaleId":34,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Casual Shoes",
+    "Qty":2.0,
+    "Price":2270.37,
+    "Amount":4540.74,
+    "Sale_Date":"2024-10-20"
+  },
+  {
+    "SaleId":35,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":2.0,
+    "Price":2585.19,
+    "Amount":5170.38,
+    "Sale_Date":"2025-03-27"
+  },
+  {
+    "SaleId":36,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Floral Mist",
+    "Qty":5.0,
+    "Price":2944.44,
+    "Amount":14722.2,
+    "Sale_Date":"2024-09-02"
+  },
+  {
+    "SaleId":37,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Moto Edge",
+    "Qty":5.0,
+    "Price":2240.74,
+    "Amount":11203.7,
+    "Sale_Date":"2024-09-09"
+  },
+  {
+    "SaleId":38,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Tapered",
+    "Qty":3.0,
+    "Price":4425.93,
+    "Amount":13277.79,
+    "Sale_Date":"2024-11-28"
+  },
+  {
+    "SaleId":39,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":5.0,
+    "Price":2374.07,
+    "Amount":11870.35,
+    "Sale_Date":"2025-02-27"
+  },
+  {
+    "SaleId":40,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"V-Neck",
+    "Qty":3.0,
+    "Price":4174.07,
+    "Amount":12522.21,
+    "Sale_Date":"2025-01-03"
+  },
+  {
+    "SaleId":41,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Moto Edge",
+    "Qty":null,
+    "Price":2996.3,
+    "Amount":null,
+    "Sale_Date":"2025-04-12"
+  },
+  {
+    "SaleId":42,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":2.0,
+    "Price":2440.74,
+    "Amount":4881.48,
+    "Sale_Date":"2024-05-29"
+  },
+  {
+    "SaleId":43,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sports Shoes",
+    "Qty":4.0,
+    "Price":3307.41,
+    "Amount":13229.64,
+    "Sale_Date":"2024-11-11"
+  },
+  {
+    "SaleId":44,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":3.0,
+    "Price":2300.0,
+    "Amount":6900.0,
+    "Sale_Date":"2024-07-31"
+  },
+  {
+    "SaleId":45,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":null,
+    "Qty":4.0,
+    "Price":2718.52,
+    "Amount":10874.08,
+    "Sale_Date":"2024-08-03"
+  },
+  {
+    "SaleId":46,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":1.0,
+    "Price":2848.15,
+    "Amount":2848.15,
+    "Sale_Date":"2024-06-02"
+  },
+  {
+    "SaleId":47,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":5.0,
+    "Price":2970.37,
+    "Amount":14851.85,
+    "Sale_Date":"2024-12-25"
+  },
+  {
+    "SaleId":48,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Galaxy S",
+    "Qty":3.0,
+    "Price":3359.26,
+    "Amount":10077.78,
+    "Sale_Date":"2024-11-25"
+  },
+  {
+    "SaleId":49,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"iSmart X",
+    "Qty":3.0,
+    "Price":2637.04,
+    "Amount":7911.12,
+    "Sale_Date":"2024-09-18"
+  },
+  {
+    "SaleId":50,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":1.0,
+    "Price":4037.04,
+    "Amount":4037.04,
+    "Sale_Date":"2024-12-05"
+  },
+  {
+    "SaleId":51,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Round Neck",
+    "Qty":4.0,
+    "Price":2607.41,
+    "Amount":10429.64,
+    "Sale_Date":"2024-06-29"
+  },
+  {
+    "SaleId":52,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Moto Edge",
+    "Qty":5.0,
+    "Price":2977.78,
+    "Amount":14888.9,
+    "Sale_Date":"2025-04-11"
+  },
+  {
+    "SaleId":53,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":2.0,
+    "Price":2681.48,
+    "Amount":5362.96,
+    "Sale_Date":"2025-01-28"
+  },
+  {
+    "SaleId":54,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":4.0,
+    "Price":2818.52,
+    "Amount":11274.08,
+    "Sale_Date":"2024-06-12"
+  },
+  {
+    "SaleId":55,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":5.0,
+    "Price":3392.59,
+    "Amount":16962.95,
+    "Sale_Date":"2025-01-12"
+  },
+  {
+    "SaleId":56,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Moto Edge",
+    "Qty":5.0,
+    "Price":2003.7,
+    "Amount":10018.5,
+    "Sale_Date":"2024-05-28"
+  },
+  {
+    "SaleId":57,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Glass Bottle",
+    "Qty":3.0,
+    "Price":2607.41,
+    "Amount":7822.23,
+    "Sale_Date":"2024-12-17"
+  },
+  {
+    "SaleId":58,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"iSmart X",
+    "Qty":4.0,
+    "Price":2500.0,
+    "Amount":10000.0,
+    "Sale_Date":"2024-09-18"
+  },
+  {
+    "SaleId":59,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":1.0,
+    "Price":2392.59,
+    "Amount":2392.59,
+    "Sale_Date":"2024-07-30"
+  },
+  {
+    "SaleId":60,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":1.0,
+    "Price":3474.07,
+    "Amount":3474.07,
+    "Sale_Date":"2025-04-15"
+  },
+  {
+    "SaleId":61,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Tapered",
+    "Qty":1.0,
+    "Price":3666.67,
+    "Amount":3666.67,
+    "Sale_Date":"2024-06-28"
+  },
+  {
+    "SaleId":62,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sports Shoes",
+    "Qty":3.0,
+    "Price":3981.48,
+    "Amount":11944.44,
+    "Sale_Date":"2024-08-24"
+  },
+  {
+    "SaleId":63,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":1.0,
+    "Price":3807.41,
+    "Amount":3807.41,
+    "Sale_Date":"2024-09-13"
+  },
+  {
+    "SaleId":64,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Galaxy S",
+    "Qty":1.0,
+    "Price":2737.04,
+    "Amount":2737.04,
+    "Sale_Date":"2024-10-28"
+  },
+  {
+    "SaleId":65,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Regular Fit",
+    "Qty":5.0,
+    "Price":3429.63,
+    "Amount":17148.15,
+    "Sale_Date":"2025-03-21"
+  },
+  {
+    "SaleId":66,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"iSmart X",
+    "Qty":1.0,
+    "Price":3555.56,
+    "Amount":3555.56,
+    "Sale_Date":"2025-03-04"
+  },
+  {
+    "SaleId":67,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Copper Bottle",
+    "Qty":5.0,
+    "Price":2251.85,
+    "Amount":11259.25,
+    "Sale_Date":"2024-06-10"
+  },
+  {
+    "SaleId":68,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":2.0,
+    "Price":2022.22,
+    "Amount":4044.44,
+    "Sale_Date":"2025-04-27"
+  },
+  {
+    "SaleId":69,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":1.0,
+    "Price":3014.81,
+    "Amount":3014.81,
+    "Sale_Date":"2024-09-24"
+  },
+  {
+    "SaleId":70,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Formal Shoes",
+    "Qty":3.0,
+    "Price":2355.56,
+    "Amount":7066.68,
+    "Sale_Date":"2024-11-09"
+  },
+  {
+    "SaleId":71,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sports Shoes",
+    "Qty":5.0,
+    "Price":3037.04,
+    "Amount":15185.2,
+    "Sale_Date":"2024-08-08"
+  },
+  {
+    "SaleId":72,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Round Neck",
+    "Qty":1.0,
+    "Price":4300.0,
+    "Amount":4300.0,
+    "Sale_Date":"2025-05-01"
+  },
+  {
+    "SaleId":73,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Skinny Jeans",
+    "Qty":4.0,
+    "Price":3214.81,
+    "Amount":12859.24,
+    "Sale_Date":"2025-02-16"
+  },
+  {
+    "SaleId":74,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Amber Spice",
+    "Qty":4.0,
+    "Price":2685.19,
+    "Amount":10740.76,
+    "Sale_Date":"2024-08-27"
+  },
+  {
+    "SaleId":75,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Regular Fit",
+    "Qty":5.0,
+    "Price":3614.81,
+    "Amount":18074.05,
+    "Sale_Date":"2025-02-16"
+  },
+  {
+    "SaleId":76,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":1.0,
+    "Price":4066.67,
+    "Amount":4066.67,
+    "Sale_Date":"2024-06-30"
+  },
+  {
+    "SaleId":77,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Skinny Jeans",
+    "Qty":5.0,
+    "Price":3211.11,
+    "Amount":16055.55,
+    "Sale_Date":"2025-05-10"
+  },
+  {
+    "SaleId":78,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Ocean Breeze",
+    "Qty":2.0,
+    "Price":2574.07,
+    "Amount":5148.14,
+    "Sale_Date":"2025-04-04"
+  },
+  {
+    "SaleId":79,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Casual Shoes",
+    "Qty":2.0,
+    "Price":1970.37,
+    "Amount":3940.74,
+    "Sale_Date":"2024-11-07"
+  },
+  {
+    "SaleId":80,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Plastic Sipper",
+    "Qty":5.0,
+    "Price":3670.37,
+    "Amount":18351.85,
+    "Sale_Date":"2025-04-26"
+  },
+  {
+    "SaleId":81,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Casual Shoes",
+    "Qty":4.0,
+    "Price":3529.63,
+    "Amount":14118.52,
+    "Sale_Date":"2024-10-30"
+  },
+  {
+    "SaleId":82,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Lavender Calm",
+    "Qty":4.0,
+    "Price":3103.7,
+    "Amount":12414.8,
+    "Sale_Date":"2024-11-05"
+  },
+  {
+    "SaleId":83,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":2.0,
+    "Price":2818.52,
+    "Amount":5637.04,
+    "Sale_Date":"2024-11-08"
+  },
+  {
+    "SaleId":84,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":1.0,
+    "Price":2270.37,
+    "Amount":2270.37,
+    "Sale_Date":"2024-09-15"
+  },
+  {
+    "SaleId":85,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":2.0,
+    "Price":4322.22,
+    "Amount":8644.44,
+    "Sale_Date":"2025-05-10"
+  },
+  {
+    "SaleId":86,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Floral Mist",
+    "Qty":1.0,
+    "Price":4237.04,
+    "Amount":4237.04,
+    "Sale_Date":"2024-06-10"
+  },
+  {
+    "SaleId":87,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sandals",
+    "Qty":5.0,
+    "Price":1859.26,
+    "Amount":9296.3,
+    "Sale_Date":"2024-07-29"
+  },
+  {
+    "SaleId":88,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":5.0,
+    "Price":3888.89,
+    "Amount":19444.45,
+    "Sale_Date":"2024-08-27"
+  },
+  {
+    "SaleId":89,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":1.0,
+    "Price":4229.63,
+    "Amount":4229.63,
+    "Sale_Date":"2025-02-10"
+  },
+  {
+    "SaleId":90,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":5.0,
+    "Price":3722.22,
+    "Amount":18611.1,
+    "Sale_Date":"2024-07-21"
+  },
+  {
+    "SaleId":91,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":3.0,
+    "Price":3588.89,
+    "Amount":10766.67,
+    "Sale_Date":"2024-06-10"
+  },
+  {
+    "SaleId":92,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":2.0,
+    "Price":3014.81,
+    "Amount":6029.62,
+    "Sale_Date":"2024-10-15"
+  },
+  {
+    "SaleId":93,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Formal Shoes",
+    "Qty":3.0,
+    "Price":2866.67,
+    "Amount":8600.01,
+    "Sale_Date":"2024-07-29"
+  },
+  {
+    "SaleId":94,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":2.0,
+    "Price":4092.59,
+    "Amount":8185.18,
+    "Sale_Date":"2025-05-10"
+  },
+  {
+    "SaleId":95,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Lavender Calm",
+    "Qty":3.0,
+    "Price":3692.59,
+    "Amount":11077.77,
+    "Sale_Date":"2024-07-17"
+  },
+  {
+    "SaleId":96,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":3.0,
+    "Price":4437.04,
+    "Amount":13311.12,
+    "Sale_Date":"2024-06-07"
+  },
+  {
+    "SaleId":97,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Amber Spice",
+    "Qty":2.0,
+    "Price":3474.07,
+    "Amount":6948.14,
+    "Sale_Date":"2024-12-25"
+  },
+  {
+    "SaleId":98,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":null,
+    "Qty":4.0,
+    "Price":3640.74,
+    "Amount":14562.96,
+    "Sale_Date":"2024-06-08"
+  },
+  {
+    "SaleId":99,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Floral Mist",
+    "Qty":4.0,
+    "Price":4029.63,
+    "Amount":16118.52,
+    "Sale_Date":"2024-08-14"
+  },
+  {
+    "SaleId":100,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Loafers",
+    "Qty":1.0,
+    "Price":3322.22,
+    "Amount":3322.22,
+    "Sale_Date":"2024-08-02"
+  },
+  {
+    "SaleId":101,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Glass Bottle",
+    "Qty":4.0,
+    "Price":4300.0,
+    "Amount":17200.0,
+    "Sale_Date":"2025-02-11"
+  },
+  {
+    "SaleId":102,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":null,
+    "Price":4355.56,
+    "Amount":null,
+    "Sale_Date":"2024-11-20"
+  },
+  {
+    "SaleId":103,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Tapered",
+    "Qty":5.0,
+    "Price":2922.22,
+    "Amount":14611.1,
+    "Sale_Date":"2024-10-06"
+  },
+  {
+    "SaleId":104,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":3.0,
+    "Price":3307.41,
+    "Amount":9922.23,
+    "Sale_Date":"2025-04-23"
+  },
+  {
+    "SaleId":105,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Plastic Sipper",
+    "Qty":1.0,
+    "Price":3800.0,
+    "Amount":3800.0,
+    "Sale_Date":"2024-12-05"
+  },
+  {
+    "SaleId":106,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":null,
+    "Qty":2.0,
+    "Price":3000.0,
+    "Amount":6000.0,
+    "Sale_Date":"2025-03-02"
+  },
+  {
+    "SaleId":107,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":3.0,
+    "Price":3581.48,
+    "Amount":10744.44,
+    "Sale_Date":"2025-04-22"
+  },
+  {
+    "SaleId":108,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sports Shoes",
+    "Qty":4.0,
+    "Price":1892.59,
+    "Amount":7570.36,
+    "Sale_Date":"2024-08-20"
+  },
+  {
+    "SaleId":109,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Loafers",
+    "Qty":1.0,
+    "Price":2681.48,
+    "Amount":2681.48,
+    "Sale_Date":"2024-09-03"
+  },
+  {
+    "SaleId":110,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Sport Bottle",
+    "Qty":2.0,
+    "Price":3011.11,
+    "Amount":6022.22,
+    "Sale_Date":"2025-03-31"
+  },
+  {
+    "SaleId":111,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":3.0,
+    "Price":3459.26,
+    "Amount":10377.78,
+    "Sale_Date":"2025-02-24"
+  },
+  {
+    "SaleId":112,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Thermo Flask",
+    "Qty":4.0,
+    "Price":2707.41,
+    "Amount":10829.64,
+    "Sale_Date":"2024-10-18"
+  },
+  {
+    "SaleId":113,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":null,
+    "Qty":4.0,
+    "Price":2137.04,
+    "Amount":8548.16,
+    "Sale_Date":"2025-01-12"
+  },
+  {
+    "SaleId":114,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Skinny Jeans",
+    "Qty":4.0,
+    "Price":2755.56,
+    "Amount":11022.24,
+    "Sale_Date":"2025-05-18"
+  },
+  {
+    "SaleId":115,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":3.0,
+    "Price":3559.26,
+    "Amount":10677.78,
+    "Sale_Date":"2024-10-02"
+  },
+  {
+    "SaleId":116,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":2.0,
+    "Price":3714.81,
+    "Amount":7429.62,
+    "Sale_Date":"2025-04-17"
+  },
+  {
+    "SaleId":117,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Amber Spice",
+    "Qty":5.0,
+    "Price":2507.41,
+    "Amount":12537.05,
+    "Sale_Date":"2025-02-03"
+  },
+  {
+    "SaleId":118,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Plastic Sipper",
+    "Qty":2.0,
+    "Price":3670.37,
+    "Amount":7340.74,
+    "Sale_Date":"2024-10-11"
+  },
+  {
+    "SaleId":119,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":4.0,
+    "Price":2551.85,
+    "Amount":10207.4,
+    "Sale_Date":"2024-07-15"
+  },
+  {
+    "SaleId":120,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":4.0,
+    "Price":2507.41,
+    "Amount":10029.64,
+    "Sale_Date":"2025-01-11"
+  },
+  {
+    "SaleId":121,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":4.0,
+    "Price":3840.74,
+    "Amount":15362.96,
+    "Sale_Date":"2024-06-25"
+  },
+  {
+    "SaleId":122,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Amber Spice",
+    "Qty":3.0,
+    "Price":2970.37,
+    "Amount":8911.11,
+    "Sale_Date":"2024-10-09"
+  },
+  {
+    "SaleId":123,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Floral Mist",
+    "Qty":4.0,
+    "Price":3959.26,
+    "Amount":15837.04,
+    "Sale_Date":"2025-01-21"
+  },
+  {
+    "SaleId":124,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Thermo Flask",
+    "Qty":5.0,
+    "Price":4255.56,
+    "Amount":21277.8,
+    "Sale_Date":"2025-05-15"
+  },
+  {
+    "SaleId":125,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Glass Bottle",
+    "Qty":5.0,
+    "Price":2170.37,
+    "Amount":10851.85,
+    "Sale_Date":"2024-06-05"
+  },
+  {
+    "SaleId":126,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":null,
+    "Qty":3.0,
+    "Price":2103.7,
+    "Amount":6311.1,
+    "Sale_Date":"2024-06-07"
+  },
+  {
+    "SaleId":127,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":2.0,
+    "Price":1874.07,
+    "Amount":3748.14,
+    "Sale_Date":"2025-04-12"
+  },
+  {
+    "SaleId":128,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":1.0,
+    "Price":2070.37,
+    "Amount":2070.37,
+    "Sale_Date":"2025-01-03"
+  },
+  {
+    "SaleId":129,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":null,
+    "Price":3018.52,
+    "Amount":null,
+    "Sale_Date":"2024-12-29"
+  },
+  {
+    "SaleId":130,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":3.0,
+    "Price":3981.48,
+    "Amount":11944.44,
+    "Sale_Date":"2025-03-26"
+  },
+  {
+    "SaleId":131,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":5.0,
+    "Price":3744.44,
+    "Amount":18722.2,
+    "Sale_Date":"2025-01-23"
+  },
+  {
+    "SaleId":132,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Loafers",
+    "Qty":4.0,
+    "Price":2437.04,
+    "Amount":9748.16,
+    "Sale_Date":"2024-09-18"
+  },
+  {
+    "SaleId":133,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":4.0,
+    "Price":3307.41,
+    "Amount":13229.64,
+    "Sale_Date":"2024-08-23"
+  },
+  {
+    "SaleId":134,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":5.0,
+    "Price":2074.07,
+    "Amount":10370.35,
+    "Sale_Date":"2025-02-28"
+  },
+  {
+    "SaleId":135,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":1.0,
+    "Price":3481.48,
+    "Amount":3481.48,
+    "Sale_Date":"2025-03-23"
+  },
+  {
+    "SaleId":136,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":1.0,
+    "Price":2240.74,
+    "Amount":2240.74,
+    "Sale_Date":"2024-09-11"
+  },
+  {
+    "SaleId":137,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":3.0,
+    "Price":4055.56,
+    "Amount":12166.68,
+    "Sale_Date":"2024-11-20"
+  },
+  {
+    "SaleId":138,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":3.0,
+    "Price":3396.3,
+    "Amount":10188.9,
+    "Sale_Date":"2025-01-18"
+  },
+  {
+    "SaleId":139,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sneakers",
+    "Qty":2.0,
+    "Price":4433.33,
+    "Amount":8866.66,
+    "Sale_Date":"2024-08-26"
+  },
+  {
+    "SaleId":140,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":5.0,
+    "Price":3022.22,
+    "Amount":15111.1,
+    "Sale_Date":"2024-07-04"
+  },
+  {
+    "SaleId":141,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Amber Spice",
+    "Qty":1.0,
+    "Price":2155.56,
+    "Amount":2155.56,
+    "Sale_Date":"2025-01-01"
+  },
+  {
+    "SaleId":142,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":null,
+    "Qty":4.0,
+    "Price":4329.63,
+    "Amount":17318.52,
+    "Sale_Date":"2024-11-05"
+  },
+  {
+    "SaleId":143,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Oud Royale",
+    "Qty":1.0,
+    "Price":2292.59,
+    "Amount":2292.59,
+    "Sale_Date":"2024-11-13"
+  },
+  {
+    "SaleId":144,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Regular Fit",
+    "Qty":5.0,
+    "Price":3792.59,
+    "Amount":18962.95,
+    "Sale_Date":"2024-05-22"
+  },
+  {
+    "SaleId":145,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Plastic Sipper",
+    "Qty":1.0,
+    "Price":3496.3,
+    "Amount":3496.3,
+    "Sale_Date":"2025-04-13"
+  },
+  {
+    "SaleId":146,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":1.0,
+    "Price":2192.59,
+    "Amount":2192.59,
+    "Sale_Date":"2024-11-02"
+  },
+  {
+    "SaleId":147,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":5.0,
+    "Price":2737.04,
+    "Amount":13685.2,
+    "Sale_Date":"2024-08-18"
+  },
+  {
+    "SaleId":148,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Relaxed Fit",
+    "Qty":1.0,
+    "Price":3440.74,
+    "Amount":3440.74,
+    "Sale_Date":"2024-09-02"
+  },
+  {
+    "SaleId":149,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Glass Bottle",
+    "Qty":5.0,
+    "Price":3614.81,
+    "Amount":18074.05,
+    "Sale_Date":"2025-02-10"
+  },
+  {
+    "SaleId":150,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Sports Shoes",
+    "Qty":5.0,
+    "Price":2337.04,
+    "Amount":11685.2,
+    "Sale_Date":"2024-07-12"
+  },
+  {
+    "SaleId":151,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Glass Bottle",
+    "Qty":3.0,
+    "Price":2485.19,
+    "Amount":7455.57,
+    "Sale_Date":"2024-12-31"
+  },
+  {
+    "SaleId":152,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":2.0,
+    "Price":2866.67,
+    "Amount":5733.34,
+    "Sale_Date":"2024-07-08"
+  },
+  {
+    "SaleId":153,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":2.0,
+    "Price":2681.48,
+    "Amount":5362.96,
+    "Sale_Date":"2024-10-14"
+  },
+  {
+    "SaleId":154,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"iSmart X",
+    "Qty":4.0,
+    "Price":3129.63,
+    "Amount":12518.52,
+    "Sale_Date":"2025-01-14"
+  },
+  {
+    "SaleId":155,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":3.0,
+    "Price":3792.59,
+    "Amount":11377.77,
+    "Sale_Date":"2025-04-07"
+  },
+  {
+    "SaleId":156,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":4.0,
+    "Price":2548.15,
+    "Amount":10192.6,
+    "Sale_Date":"2024-09-20"
+  },
+  {
+    "SaleId":157,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":4.0,
+    "Price":2966.67,
+    "Amount":11866.68,
+    "Sale_Date":"2025-04-23"
+  },
+  {
+    "SaleId":158,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":5.0,
+    "Price":2996.3,
+    "Amount":14981.5,
+    "Sale_Date":"2024-11-26"
+  },
+  {
+    "SaleId":159,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Ocean Breeze",
+    "Qty":4.0,
+    "Price":3244.44,
+    "Amount":12977.76,
+    "Sale_Date":"2025-04-01"
+  },
+  {
+    "SaleId":160,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":1.0,
+    "Price":2125.93,
+    "Amount":2125.93,
+    "Sale_Date":"2025-04-22"
+  },
+  {
+    "SaleId":161,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Casual Shoes",
+    "Qty":4.0,
+    "Price":3607.41,
+    "Amount":14429.64,
+    "Sale_Date":"2025-02-16"
+  },
+  {
+    "SaleId":162,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":1.0,
+    "Price":3148.15,
+    "Amount":3148.15,
+    "Sale_Date":"2025-05-13"
+  },
+  {
+    "SaleId":163,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Slim Fit",
+    "Qty":2.0,
+    "Price":4314.81,
+    "Amount":8629.62,
+    "Sale_Date":"2025-01-22"
+  },
+  {
+    "SaleId":164,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":1.0,
+    "Price":2944.44,
+    "Amount":2944.44,
+    "Sale_Date":"2024-10-22"
+  },
+  {
+    "SaleId":165,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Android Pro",
+    "Qty":3.0,
+    "Price":4351.85,
+    "Amount":13055.55,
+    "Sale_Date":"2025-01-06"
+  },
+  {
+    "SaleId":166,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":1.0,
+    "Price":3977.78,
+    "Amount":3977.78,
+    "Sale_Date":"2024-06-17"
+  },
+  {
+    "SaleId":167,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Bootcut",
+    "Qty":5.0,
+    "Price":3303.7,
+    "Amount":16518.5,
+    "Sale_Date":"2025-03-12"
+  },
+  {
+    "SaleId":168,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":1.0,
+    "Price":3551.85,
+    "Amount":3551.85,
+    "Sale_Date":"2024-10-20"
+  },
+  {
+    "SaleId":169,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Tapered",
+    "Qty":1.0,
+    "Price":3659.26,
+    "Amount":3659.26,
+    "Sale_Date":"2025-04-22"
+  },
+  {
+    "SaleId":170,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Plastic Sipper",
+    "Qty":3.0,
+    "Price":2707.41,
+    "Amount":8122.23,
+    "Sale_Date":"2025-03-22"
+  },
+  {
+    "SaleId":171,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Glass Bottle",
+    "Qty":4.0,
+    "Price":3429.63,
+    "Amount":13718.52,
+    "Sale_Date":"2024-06-12"
+  },
+  {
+    "SaleId":172,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"V-Neck",
+    "Qty":2.0,
+    "Price":3081.48,
+    "Amount":6162.96,
+    "Sale_Date":"2025-02-28"
+  },
+  {
+    "SaleId":173,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":3.0,
+    "Price":3488.89,
+    "Amount":10466.67,
+    "Sale_Date":"2025-03-29"
+  },
+  {
+    "SaleId":174,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Formal Shoes",
+    "Qty":5.0,
+    "Price":2400.0,
+    "Amount":12000.0,
+    "Sale_Date":"2025-01-30"
+  },
+  {
+    "SaleId":175,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Copper Bottle",
+    "Qty":2.0,
+    "Price":3425.93,
+    "Amount":6851.86,
+    "Sale_Date":"2025-04-21"
+  },
+  {
+    "SaleId":176,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Slim Fit",
+    "Qty":1.0,
+    "Price":3025.93,
+    "Amount":3025.93,
+    "Sale_Date":"2024-07-02"
+  },
+  {
+    "SaleId":177,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Ocean Breeze",
+    "Qty":2.0,
+    "Price":3377.78,
+    "Amount":6755.56,
+    "Sale_Date":"2024-10-23"
+  },
+  {
+    "SaleId":178,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":3.0,
+    "Price":4385.19,
+    "Amount":13155.57,
+    "Sale_Date":"2024-06-07"
+  },
+  {
+    "SaleId":179,
+    "Country":"Sri Lanka",
+    "Category":"Shoes",
+    "Product":"Casual Shoes",
+    "Qty":2.0,
+    "Price":3414.81,
+    "Amount":6829.62,
+    "Sale_Date":"2025-05-14"
+  },
+  {
+    "SaleId":180,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Sleeveless",
+    "Qty":2.0,
+    "Price":3437.04,
+    "Amount":6874.08,
+    "Sale_Date":"2024-09-20"
+  },
+  {
+    "SaleId":181,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Polo Tee",
+    "Qty":5.0,
+    "Price":2340.74,
+    "Amount":11703.7,
+    "Sale_Date":"2024-06-13"
+  },
+  {
+    "SaleId":182,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Steel Flask",
+    "Qty":2.0,
+    "Price":4274.07,
+    "Amount":8548.14,
+    "Sale_Date":"2025-03-05"
+  },
+  {
+    "SaleId":183,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":2.0,
+    "Price":2229.63,
+    "Amount":4459.26,
+    "Sale_Date":"2025-02-25"
+  },
+  {
+    "SaleId":184,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Copper Bottle",
+    "Qty":5.0,
+    "Price":2377.78,
+    "Amount":11888.9,
+    "Sale_Date":"2025-04-06"
+  },
+  {
+    "SaleId":185,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Printed Tee",
+    "Qty":4.0,
+    "Price":3022.22,
+    "Amount":12088.88,
+    "Sale_Date":"2025-02-15"
+  },
+  {
+    "SaleId":186,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":5.0,
+    "Price":3148.15,
+    "Amount":15740.75,
+    "Sale_Date":"2025-04-22"
+  },
+  {
+    "SaleId":187,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"OnePlus Neo",
+    "Qty":2.0,
+    "Price":4062.96,
+    "Amount":8125.92,
+    "Sale_Date":"2024-12-23"
+  },
+  {
+    "SaleId":188,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Ocean Breeze",
+    "Qty":1.0,
+    "Price":3451.85,
+    "Amount":3451.85,
+    "Sale_Date":"2025-03-06"
+  },
+  {
+    "SaleId":189,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Citrus Splash",
+    "Qty":3.0,
+    "Price":2288.89,
+    "Amount":6866.67,
+    "Sale_Date":"2024-08-09"
+  },
+  {
+    "SaleId":190,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Ocean Breeze",
+    "Qty":2.0,
+    "Price":2855.56,
+    "Amount":5711.12,
+    "Sale_Date":"2024-06-05"
+  },
+  {
+    "SaleId":191,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Copper Bottle",
+    "Qty":5.0,
+    "Price":4048.15,
+    "Amount":20240.75,
+    "Sale_Date":"2025-03-26"
+  },
+  {
+    "SaleId":192,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Pixel Max",
+    "Qty":3.0,
+    "Price":2014.81,
+    "Amount":6044.43,
+    "Sale_Date":"2024-05-26"
+  },
+  {
+    "SaleId":193,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":null,
+    "Qty":1.0,
+    "Price":2744.44,
+    "Amount":2744.44,
+    "Sale_Date":"2025-05-09"
+  },
+  {
+    "SaleId":194,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Round Neck",
+    "Qty":5.0,
+    "Price":3429.63,
+    "Amount":17148.15,
+    "Sale_Date":"2025-02-10"
+  },
+  {
+    "SaleId":195,
+    "Country":"Sri Lanka",
+    "Category":"Water bottles",
+    "Product":"Sport Bottle",
+    "Qty":3.0,
+    "Price":2514.81,
+    "Amount":7544.43,
+    "Sale_Date":"2025-01-05"
+  },
+  {
+    "SaleId":196,
+    "Country":"Sri Lanka",
+    "Category":"Perfumes",
+    "Product":"Ocean Breeze",
+    "Qty":4.0,
+    "Price":3855.56,
+    "Amount":15422.24,
+    "Sale_Date":"2025-04-08"
+  },
+  {
+    "SaleId":197,
+    "Country":"Sri Lanka",
+    "Category":"Smart Phone",
+    "Product":"Galaxy S",
+    "Qty":2.0,
+    "Price":4337.04,
+    "Amount":8674.08,
+    "Sale_Date":"2025-04-08"
+  },
+  {
+    "SaleId":198,
+    "Country":"Sri Lanka",
+    "Category":"Jeans",
+    "Product":"Slim Fit",
+    "Qty":1.0,
+    "Price":3511.11,
+    "Amount":3511.11,
+    "Sale_Date":"2025-01-06"
+  },
+  {
+    "SaleId":199,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Full Sleeve",
+    "Qty":2.0,
+    "Price":1925.93,
+    "Amount":3851.86,
+    "Sale_Date":"2025-01-06"
+  },
+  {
+    "SaleId":200,
+    "Country":"Sri Lanka",
+    "Category":"TShirts",
+    "Product":"Full Sleeve",
+    "Qty":2.0,
+    "Price":2496.3,
+    "Amount":4992.6,
+    "Sale_Date":"2024-10-11"
+  }
+]

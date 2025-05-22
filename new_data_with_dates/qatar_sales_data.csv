@@ -1,0 +1,201 @@
+SaleId,Country,Category,Product,Qty,Price,Amount,Sale_Date
+1,Qatar,Shoes,Sneakers,5.0,23.96,119.8,2025-02-02
+2,Qatar,Water bottles,Steel Flask,1.0,50.81,50.81,2025-04-30
+3,Qatar,Jeans,Tapered,2.0,39.18,78.36,2025-04-09
+4,Qatar,Smart Phone,Galaxy S,3.0,39.48,118.44,2024-11-04
+5,Qatar,Perfumes,Oud Royale,2.0,47.18,94.36,2024-08-13
+6,Qatar,Shoes,,2.0,43.51,87.02,2024-09-12
+7,Qatar,Jeans,Regular Fit,4.0,22.04,88.16,2024-05-29
+8,Qatar,Smart Phone,Galaxy S,2.0,25.05,50.1,2024-09-09
+9,Qatar,Water bottles,Glass Bottle,5.0,33.23,166.15,2024-07-27
+10,Qatar,Smart Phone,,3.0,45.43,136.29,2024-09-20
+11,Qatar,TShirts,Full Sleeve,2.0,37.69,75.38,2025-03-28
+12,Qatar,Smart Phone,Android Pro,4.0,37.78,151.12,2024-06-29
+13,Qatar,Shoes,Sneakers,3.0,49.8,149.4,2025-05-02
+14,Qatar,Water bottles,Thermo Flask,5.0,28.51,142.55,2025-01-01
+15,Qatar,Water bottles,Sport Bottle,1.0,41.41,41.41,2024-09-05
+16,Qatar,Perfumes,Amber Spice,2.0,32.49,64.98,2025-02-26
+17,Qatar,Smart Phone,Android Pro,5.0,26.45,132.25,2024-06-06
+18,Qatar,Shoes,Formal Shoes,5.0,47.49,237.45,2024-08-25
+19,Qatar,Water bottles,Sport Bottle,3.0,44.25,132.75,2025-03-16
+20,Qatar,Shoes,,4.0,27.42,109.68,2025-04-15
+21,Qatar,Perfumes,Floral Mist,3.0,24.44,73.32,2025-01-16
+22,Qatar,Water bottles,Thermo Flask,1.0,47.44,47.44,2025-04-02
+23,Qatar,Jeans,Slim Fit,5.0,42.94,214.7,2024-06-26
+24,Qatar,Perfumes,,2.0,38.17,76.34,2025-04-21
+25,Qatar,Perfumes,Ocean Breeze,2.0,43.9,87.8,2025-04-14
+26,Qatar,TShirts,Polo Tee,4.0,44.73,178.92,2024-08-17
+27,Qatar,Smart Phone,Pixel Max,1.0,38.74,38.74,2024-06-19
+28,Qatar,Water bottles,Copper Bottle,5.0,38.65,193.25,2024-08-02
+29,Qatar,Jeans,Tapered,5.0,33.45,167.25,2024-10-23
+30,Qatar,TShirts,Polo Tee,2.0,38.78,77.56,2025-05-04
+31,Qatar,Smart Phone,iSmart X,4.0,28.99,115.96,2025-02-24
+32,Qatar,Perfumes,Oud Royale,2.0,34.24,68.48,2024-06-24
+33,Qatar,Water bottles,Plastic Sipper,4.0,31.18,124.72,2025-05-10
+34,Qatar,Water bottles,Steel Flask,1.0,32.49,32.49,2024-09-10
+35,Qatar,Water bottles,Thermo Flask,1.0,32.62,32.62,2025-02-17
+36,Qatar,Shoes,Formal Shoes,5.0,52.12,260.6,2025-03-29
+37,Qatar,Smart Phone,iSmart X,5.0,24.75,123.75,2025-05-17
+38,Qatar,Smart Phone,iSmart X,2.0,42.5,85.0,2024-07-25
+39,Qatar,Smart Phone,Pixel Max,2.0,45.34,90.68,2024-10-31
+40,Qatar,Water bottles,Glass Bottle,5.0,52.38,261.9,2025-05-06
+41,Qatar,Water bottles,Copper Bottle,5.0,28.6,143.0,2025-05-21
+42,Qatar,Shoes,Sandals,5.0,34.15,170.75,2024-10-18
+43,Qatar,Smart Phone,Moto Edge,2.0,30.04,60.08,2024-11-20
+44,Qatar,Water bottles,Plastic Sipper,4.0,23.87,95.48,2024-10-14
+45,Qatar,Smart Phone,Moto Edge,2.0,44.99,89.98,2025-03-26
+46,Qatar,Smart Phone,iSmart X,2.0,31.13,62.26,2024-06-22
+47,Qatar,Smart Phone,OnePlus Neo,2.0,24.22,48.44,2025-01-20
+48,Qatar,Perfumes,Amber Spice,5.0,42.5,212.5,2024-09-02
+49,Qatar,Jeans,Relaxed Fit,4.0,41.06,164.24,2025-03-06
+50,Qatar,Smart Phone,iSmart X,5.0,44.34,221.7,2024-10-06
+51,Qatar,Water bottles,Thermo Flask,4.0,27.9,111.6,2024-10-19
+52,Qatar,TShirts,V-Neck,3.0,33.01,99.03,2025-03-24
+53,Qatar,Shoes,Formal Shoes,4.0,39.88,159.52,2025-03-26
+54,Qatar,Smart Phone,iSmart X,1.0,26.72,26.72,2025-05-04
+55,Qatar,Water bottles,Glass Bottle,4.0,28.2,112.8,2024-08-17
+56,Qatar,Jeans,Relaxed Fit,3.0,23.31,69.93,2025-01-16
+57,Qatar,Shoes,Formal Shoes,4.0,41.15,164.6,2025-03-14
+58,Qatar,Jeans,Regular Fit,3.0,26.28,78.84,2024-12-10
+59,Qatar,Water bottles,Thermo Flask,1.0,26.15,26.15,2025-04-28
+60,Qatar,TShirts,V-Neck,4.0,51.51,206.04,2024-07-11
+61,Qatar,Perfumes,Ocean Breeze,2.0,32.97,65.94,2025-05-21
+62,Qatar,Smart Phone,OnePlus Neo,4.0,51.81,207.24,2025-04-24
+63,Qatar,Water bottles,Thermo Flask,1.0,39.31,39.31,2024-05-31
+64,Qatar,Perfumes,Lavender Calm,1.0,40.01,40.01,2024-12-02
+65,Qatar,Shoes,Loafers,3.0,44.77,134.31,2024-11-05
+66,Qatar,Shoes,,5.0,41.85,209.25,2025-04-09
+67,Qatar,Shoes,Sports Shoes,2.0,44.91,89.82,2024-11-28
+68,Qatar,Water bottles,Glass Bottle,2.0,44.77,89.54,2024-09-14
+69,Qatar,Perfumes,Floral Mist,4.0,37.56,150.24,2024-12-07
+70,Qatar,TShirts,Printed Tee,,37.34,,2024-06-01
+71,Qatar,Jeans,Bootcut,2.0,28.64,57.28,2024-06-25
+72,Qatar,Smart Phone,Galaxy S,1.0,43.2,43.2,2025-03-11
+73,Qatar,TShirts,Sleeveless,1.0,23.31,23.31,2024-06-15
+74,Qatar,Perfumes,Amber Spice,1.0,23.74,23.74,2024-08-15
+75,Qatar,Water bottles,Sport Bottle,5.0,36.47,182.35,2024-08-31
+76,Qatar,TShirts,Sleeveless,2.0,42.41,84.82,2025-05-09
+77,Qatar,Jeans,Skinny Jeans,5.0,46.74,233.7,2024-06-15
+78,Qatar,TShirts,Sleeveless,2.0,34.63,69.26,2025-03-25
+79,Qatar,Jeans,Slim Fit,1.0,47.7,47.7,2025-04-15
+80,Qatar,TShirts,Full Sleeve,2.0,30.91,61.82,2024-12-01
+81,Qatar,Jeans,Tapered,3.0,49.1,147.3,2024-08-26
+82,Qatar,Shoes,Casual Shoes,5.0,50.37,251.85,2024-06-08
+83,Qatar,Jeans,Skinny Jeans,3.0,50.55,151.65,2025-03-05
+84,Qatar,Water bottles,Sport Bottle,1.0,33.14,33.14,2024-11-21
+85,Qatar,TShirts,Sleeveless,4.0,33.67,134.68,2024-07-03
+86,Qatar,Perfumes,Amber Spice,1.0,35.46,35.46,2024-12-16
+87,Qatar,TShirts,Full Sleeve,2.0,34.41,68.82,2025-04-05
+88,Qatar,Perfumes,Lavender Calm,3.0,39.7,119.1,2024-07-03
+89,Qatar,Water bottles,Steel Flask,3.0,33.93,101.79,2025-02-06
+90,Qatar,Smart Phone,OnePlus Neo,3.0,27.42,82.26,2025-02-15
+91,Qatar,Shoes,Casual Shoes,1.0,34.94,34.94,2024-12-19
+92,Qatar,Shoes,Sandals,5.0,28.12,140.6,2024-11-23
+93,Qatar,Jeans,Tapered,5.0,38.74,193.7,2024-10-26
+94,Qatar,Water bottles,Thermo Flask,3.0,31.35,94.05,2024-09-17
+95,Qatar,Jeans,Regular Fit,1.0,42.2,42.2,2024-12-05
+96,Qatar,Jeans,Skinny Jeans,1.0,35.55,35.55,2025-01-16
+97,Qatar,Perfumes,Floral Mist,4.0,26.63,106.52,2024-09-11
+98,Qatar,Perfumes,Oud Royale,1.0,23.57,23.57,2024-06-14
+99,Qatar,Smart Phone,Android Pro,4.0,37.08,148.32,2024-07-31
+100,Qatar,Perfumes,Ocean Breeze,3.0,31.83,95.49,2025-03-16
+101,Qatar,Jeans,Tapered,1.0,39.92,39.92,2025-04-03
+102,Qatar,TShirts,Full Sleeve,5.0,34.54,172.7,2024-12-15
+103,Qatar,Perfumes,Citrus Splash,,25.93,,2024-11-18
+104,Qatar,Jeans,Bootcut,3.0,32.01,96.03,2025-04-30
+105,Qatar,Shoes,Sneakers,5.0,39.57,197.85,2025-05-17
+106,Qatar,Water bottles,Copper Bottle,2.0,51.73,103.46,2024-07-23
+107,Qatar,Smart Phone,Moto Edge,2.0,23.26,46.52,2025-04-09
+108,Qatar,Perfumes,Floral Mist,2.0,46.66,93.32,2024-06-27
+109,Qatar,Jeans,Bootcut,2.0,41.71,83.42,2025-03-09
+110,Qatar,Water bottles,Thermo Flask,5.0,40.84,204.2,2025-05-07
+111,Qatar,Perfumes,Ocean Breeze,4.0,25.01,100.04,2025-05-08
+112,Qatar,Jeans,Slim Fit,5.0,36.69,183.45,2024-07-28
+113,Qatar,Perfumes,Floral Mist,5.0,48.49,242.45,2024-09-08
+114,Qatar,Shoes,Sports Shoes,2.0,38.78,77.56,2025-01-07
+115,Qatar,Shoes,Formal Shoes,5.0,37.21,186.05,2025-04-09
+116,Qatar,Shoes,Casual Shoes,5.0,49.63,248.15,2025-04-07
+117,Qatar,Water bottles,Sport Bottle,2.0,23.66,47.32,2025-02-11
+118,Qatar,Shoes,Sneakers,3.0,27.5,82.5,2024-08-02
+119,Qatar,Jeans,Bootcut,,23.26,,2024-08-14
+120,Qatar,TShirts,Round Neck,3.0,43.9,131.7,2025-03-14
+121,Qatar,Shoes,Casual Shoes,2.0,26.54,53.08,2025-01-20
+122,Qatar,Smart Phone,OnePlus Neo,1.0,35.94,35.94,2025-03-19
+123,Qatar,Smart Phone,Android Pro,3.0,30.39,91.17,2024-10-14
+124,Qatar,Jeans,Slim Fit,2.0,39.0,78.0,2025-01-09
+125,Qatar,Smart Phone,Android Pro,4.0,45.74,182.96,2024-11-28
+126,Qatar,Jeans,Tapered,2.0,43.81,87.62,2025-01-24
+127,Qatar,Shoes,Casual Shoes,2.0,34.5,69.0,2024-06-16
+128,Qatar,Perfumes,Citrus Splash,3.0,36.82,110.46,2025-02-13
+129,Qatar,Shoes,Sports Shoes,2.0,29.51,59.02,2024-12-08
+130,Qatar,Perfumes,Amber Spice,4.0,43.9,175.6,2025-04-15
+131,Qatar,Jeans,Bootcut,2.0,41.36,82.72,2025-04-17
+132,Qatar,TShirts,Sleeveless,4.0,27.59,110.36,2024-08-18
+133,Qatar,Water bottles,Plastic Sipper,1.0,37.39,37.39,2025-02-17
+134,Qatar,Water bottles,Plastic Sipper,5.0,39.4,197.0,2025-05-11
+135,Qatar,Jeans,Relaxed Fit,1.0,31.13,31.13,2025-01-21
+136,Qatar,Water bottles,Thermo Flask,3.0,46.48,139.44,2024-07-21
+137,Qatar,Perfumes,Citrus Splash,5.0,49.28,246.4,2024-06-15
+138,Qatar,Perfumes,Floral Mist,1.0,49.54,49.54,2024-12-25
+139,Qatar,Jeans,Slim Fit,3.0,27.98,83.94,2024-08-28
+140,Qatar,Perfumes,Oud Royale,4.0,35.02,140.08,2024-10-10
+141,Qatar,Smart Phone,OnePlus Neo,2.0,24.97,49.94,2024-11-25
+142,Qatar,Perfumes,Ocean Breeze,5.0,30.39,151.95,2024-07-31
+143,Qatar,Perfumes,Floral Mist,1.0,25.14,25.14,2024-09-06
+144,Qatar,Jeans,Slim Fit,4.0,41.67,166.68,2025-02-25
+145,Qatar,Water bottles,Thermo Flask,4.0,23.09,92.36,2024-09-29
+146,Qatar,TShirts,Round Neck,5.0,23.17,115.85,2024-10-24
+147,Qatar,Perfumes,Oud Royale,4.0,51.73,206.92,2024-06-22
+148,Qatar,TShirts,Printed Tee,4.0,42.98,171.92,2025-04-05
+149,Qatar,Smart Phone,iSmart X,1.0,32.79,32.79,2025-03-08
+150,Qatar,Jeans,Skinny Jeans,2.0,22.04,44.08,2024-06-23
+151,Qatar,Shoes,,5.0,26.85,134.25,2024-07-27
+152,Qatar,Shoes,Sneakers,4.0,46.87,187.48,2024-06-08
+153,Qatar,Jeans,Bootcut,5.0,28.95,144.75,2024-11-08
+154,Qatar,Jeans,Bootcut,3.0,45.12,135.36,2024-08-28
+155,Qatar,Smart Phone,Galaxy S,5.0,29.47,147.35,2024-09-23
+156,Qatar,TShirts,Round Neck,1.0,42.33,42.33,2024-07-10
+157,Qatar,Water bottles,Plastic Sipper,3.0,46.61,139.83,2025-01-16
+158,Qatar,Smart Phone,OnePlus Neo,5.0,27.42,137.1,2024-11-26
+159,Qatar,Jeans,Tapered,3.0,37.82,113.46,2025-04-30
+160,Qatar,Jeans,Slim Fit,5.0,50.9,254.5,2024-10-16
+161,Qatar,Jeans,Regular Fit,4.0,25.01,100.04,2024-07-14
+162,Qatar,Perfumes,Oud Royale,4.0,46.22,184.88,2025-04-25
+163,Qatar,Perfumes,Amber Spice,5.0,29.91,149.55,2025-04-10
+164,Qatar,Water bottles,Plastic Sipper,2.0,24.05,48.1,2024-10-01
+165,Qatar,Water bottles,Steel Flask,1.0,23.87,23.87,2025-04-04
+166,Qatar,Perfumes,Ocean Breeze,1.0,25.14,25.14,2025-01-11
+167,Qatar,Smart Phone,Moto Edge,2.0,32.84,65.68,2024-12-27
+168,Qatar,Jeans,Regular Fit,4.0,26.8,107.2,2024-08-08
+169,Qatar,Shoes,,,39.22,,2024-06-05
+170,Qatar,TShirts,Polo Tee,3.0,26.76,80.28,2025-01-27
+171,Qatar,Shoes,Loafers,2.0,22.26,44.52,2024-10-04
+172,Qatar,TShirts,V-Neck,1.0,50.02,50.02,2024-10-11
+173,Qatar,TShirts,Round Neck,2.0,27.81,55.62,2024-09-19
+174,Qatar,Smart Phone,Android Pro,1.0,47.75,47.75,2025-05-02
+175,Qatar,Water bottles,Thermo Flask,,36.07,,2024-08-27
+176,Qatar,Jeans,Relaxed Fit,5.0,30.96,154.8,2025-03-02
+177,Qatar,Jeans,Regular Fit,4.0,50.63,202.52,2024-06-16
+178,Qatar,Shoes,Sandals,1.0,22.39,22.39,2024-08-03
+179,Qatar,TShirts,Full Sleeve,3.0,32.4,97.2,2025-04-12
+180,Qatar,Perfumes,Lavender Calm,4.0,45.21,180.84,2024-08-05
+181,Qatar,Perfumes,Amber Spice,3.0,43.81,131.43,2024-05-29
+182,Qatar,Water bottles,Steel Flask,4.0,49.93,199.72,2024-10-19
+183,Qatar,TShirts,Printed Tee,3.0,25.19,75.57,2025-03-31
+184,Qatar,Perfumes,Floral Mist,1.0,42.2,42.2,2024-09-08
+185,Qatar,Shoes,Sneakers,5.0,37.6,188.0,2025-03-22
+186,Qatar,Perfumes,Ocean Breeze,2.0,40.1,80.2,2024-09-17
+187,Qatar,TShirts,Full Sleeve,5.0,46.17,230.85,2024-10-25
+188,Qatar,Jeans,Regular Fit,5.0,48.05,240.25,2025-04-08
+189,Qatar,Smart Phone,iSmart X,1.0,40.36,40.36,2024-08-09
+190,Qatar,Shoes,Loafers,3.0,42.46,127.38,2025-02-07
+191,Qatar,Shoes,Sneakers,5.0,35.55,177.75,2024-06-12
+192,Qatar,Jeans,Tapered,4.0,47.66,190.64,2024-09-03
+193,Qatar,Jeans,Regular Fit,5.0,39.22,196.1,2024-10-10
+194,Qatar,TShirts,Full Sleeve,3.0,24.05,72.15,2024-07-16
+195,Qatar,Smart Phone,Moto Edge,5.0,26.85,134.25,2025-02-17
+196,Qatar,Smart Phone,Moto Edge,2.0,32.09,64.18,2025-01-28
+197,Qatar,Jeans,Tapered,3.0,49.72,149.16,2024-08-10
+198,Qatar,Jeans,Tapered,1.0,41.23,41.23,2025-05-14
+199,Qatar,TShirts,V-Neck,4.0,22.43,89.72,2024-12-22
+200,Qatar,Water bottles,Plastic Sipper,4.0,23.44,93.76,2024-10-08
