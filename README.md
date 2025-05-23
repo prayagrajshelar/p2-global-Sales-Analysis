@@ -58,3 +58,25 @@ for eg.
 ### 📁 A. Sales Summary Report
 - Deliverable: Google Cloud link (CSV/Excel)
 - Fields: `SaleId`	`Country`	`Category`	`Product`	`Qty`	`Price`	`Amount`	`INR_Amount`
+
+### 📈 B. Graphical Dashboards
+- Visualizations by:
+  - Product Category
+  - Country
+  - Overall sales trend
+
+### 💰 C. Tax Department Views
+- Report with:
+  - Sales (Product/Country/Category-wise)
+  - Tax Value (5% on each sale)
+  - Tables and visuals
+
+
+## 📤 Deliverables
+- Cleaned consolidated dataset in INR.
+- Dashboard link (e.g., Looker Studio).
+- Forecast reports.
+
+## 📃 License
+© 2025 Global Sales Analytics | All Rights Reserved.
+
